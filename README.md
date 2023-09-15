@@ -1,4 +1,4 @@
-Dvostruki Heap - Efficient Dual Heap Data Structure
+Dvostruki Heap - Efficient Dual Heap Data Structure.
 
 Dvostruki Heap is a C++ implementation of a data structure that represents a dual heap. This data structure allows for efficient removal of both the minimum and maximum elements in O(log n) time complexity. The heap is implemented as an array, offering the benefits of both a min heap and a max heap simultaneously.
 
