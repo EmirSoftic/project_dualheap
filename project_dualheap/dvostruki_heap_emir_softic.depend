@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1643321971 source:c:\users\emir softic\onedrive\desktop\emir softic projekat2\dvostruki_heap_emir_softic\dvostrukiheap.cpp
+	<iostream>
+	"dvostrukiheap.h"
+
+1643324615 c:\users\emir softic\onedrive\desktop\emir softic projekat2\dvostruki_heap_emir_softic\dvostrukiheap.h
+	<iostream>
+	<vector>
+	<cmath>
+	"dvostrukiheap.cpp"
+
+1643321971 c:\users\emir softic\onedrive\desktop\emir softic projekat2\dvostruki_heap_emir_softic\dvostrukiheap.cpp
+	<iostream>
+	"dvostrukiheap.h"
+
+1643326196 source:c:\users\emir softic\onedrive\desktop\emir softic projekat2\dvostruki_heap_emir_softic\main.cpp
+	<iostream>
+	"dvostrukiheap.h"
+
